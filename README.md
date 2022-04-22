@@ -9,6 +9,11 @@
 - 1:自分が所持しているサーバー(個人所有のみ)の対Dos攻撃性能を試験する
 - 2:(非推奨)そのままDos攻撃
 - 3:HTML及びJavascriptの超基本的な内容の学習
+## 非推奨使用環境
+- Windows版Firefox系統(Tor Browser等も含む)
+    - 本来新しいタブか新しいウィンドウを一つ開き、そこで更新を連続する。Windows版Firfox系統は次々に新しいタブを開いてしまう為、余り推奨できない。
+## 推奨環境
+- Linux (仮想マシンでも可)
 ## 使用に当たる準備
 - 1:JavascriptのON OFFを簡単に切り替える為に、拡張機能「[Noscript](https://noscript.net)」を使用ブラウザにインストール
 - 2:エディタで「Mimic003-Stonehenge.html」を開く
