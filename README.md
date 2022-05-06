@@ -9,11 +9,15 @@
 - 1:自分が所持しているサーバー(個人所有のみ)の対Dos攻撃性能を試験する
 - 2:(非推奨)そのままDos攻撃
 - 3:HTML及びJavascriptの超基本的な内容の学習
+- 4:数分毎や数時間毎にページの確認
 ## 非推奨使用環境
-- Windows版Firefox系統(Tor Browser等も含む)
+- Firefox系統(Tor Browser等も含む)
     - 本来新しいタブか新しいウィンドウを一つ開き、そこで更新を連続する。Windows版Firfox系統は次々に新しいタブを開いてしまう為、余り推奨できない。
+- Brave
+    - ローカルのファイルではJavascriptが動かなかった
 ## 推奨環境
-- Linux (仮想マシンでも可)
+- Chromium系
+    -オススメ:[Vivaldi](https://vivaldi.com/)(edgeとchromeはゴミ。Braveは動かない。消去法でVivaldi。)
 ## 使用に当たる準備
 - 1:JavascriptのON OFFを簡単に切り替える為に、拡張機能「[Noscript](https://noscript.net)」を使用ブラウザにインストール
 - 2:エディタで「Mimic003-Stonehenge.html」を開く
@@ -28,5 +32,3 @@
 - 本プログラムを使用したことによる犯罪行為に関して、Mimic279(製作者本人)は一切の刑事的及び社会的、経済的責任を負わないことを宣言する。
 - 本プログラムはCC0ライセンスによりいかなる権利も責任も全て放棄する。
 - 本プログラムを利用する際に発生する全責任を、使用者である諸君が、使用者自身が全て負うことを誓える者のみ使用を許可する。
-# Special Thanks
-- [JavaScriptでDDoS攻撃(田代砲) - ウェブ家の備忘録](https://sirakabaararagi.hatenablog.com/entry/2021/11/17/142613)

@@ -1,0 +1,1 @@
+[JavaScriptでDDoS攻撃(田代砲) - ウェブ家の備忘録](https://sirakabaararagi.hatenablog.com/entry/2021/11/17/142613)
